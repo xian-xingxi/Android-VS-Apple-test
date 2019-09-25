@@ -1,0 +1,58 @@
+body {
+    background-color: #cabfb6;
+    margin-top: 0;
+    margin: auto;
+    font-family: 'Open Sans', sans-serif;
+}
+
+div {
+    background-color: white;
+    padding: 50px 100px;
+    margin: auto;
+    width: 600px;
+    margin-bottom: 20px;
+}
+
+h2 {
+    font-family: 'Proza Libre', sans-serif;
+}
+
+button.main {
+    background-color: #c9793b;
+    border-radius: 5px;
+    padding: 10px 28px;
+    border: none;
+    
+}
+
+button.android{
+    background-color:#a4c93b;
+    font-size:20px;
+    padding:6px 30px;
+    border-radius:5px;
+}
+
+button.apple{
+    background-color:#b6bcca;
+    font-size:20px;
+    border-radius:5px;
+    padding:6px 30px;
+}
+
+a{
+    text-decoration:none;
+    color:black;
+    font-family: 'Open Sans', sans-serif;
+}
+
+ /* a:hover{
+    border:1px solid black;
+    padding:9px 29px;
+    border-radius:5px;
+}  */
+
+button.main:hover{
+    border:1px solid black;
+    padding:9px 27px;
+    border-radius:5px;
+}
